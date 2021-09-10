@@ -65,3 +65,8 @@ input[type="range"]::-webkit-slider-thumb{
     text-align: center;
     letter-spacing: 1px;
 }
+#created{
+    font-size: 13px;
+    text-align: right;
+    letter-spacing: 1px;
+}
